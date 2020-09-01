@@ -2,6 +2,7 @@
 
 ## Authors
 - [iantheninja](https://github.com/iantheninja)
+- [mishel254](https://github.com/mishel254)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
